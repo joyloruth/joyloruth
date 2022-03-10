@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joyloruth
-- 👀 I’m interested in Andriod app development. 
+- 👀 I’m interested in Pega app development. 
 - 🌱 I’m currently honing java algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joyloruth.com
