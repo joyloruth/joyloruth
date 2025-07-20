@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joyloruth
-- 👀 I’m interested in Pega app development. 
+- 👀 I’m interested in Front End Pega app development. 
 - 📫 How to reach me joyloruth.com
 
 <!---
